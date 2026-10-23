@@ -1,38 +1,27 @@
-# sardar# 🚀 سالام، مەن سەردار (Sardar)!
-
-> كود يېزىش، سۈنئىي ئەقىل (AI) تەتقىقاتى ۋە ئاپتوماتلاشتۇرۇش قوراللىرى بىلەن يېڭى تەجرىبىلەرنى يارىتىشنى ياخشى كۆرىمەن.
-
----
-
-### 👨‍💻 مەن ھەققىدە قىسقىچە
-- 🤖 ئاساسلىقى **Python** ۋە **JavaScript/Node.js** ئارقىلىق ئەمەلىي سىستېما ۋە بوتلارنى تەرەققىي قىلدۇرىمەن.
-- 🧩 سۈنئىي ئەقىل مودېللىرى (Gemini API) ۋە خاس قىستۇرما/كېڭەيتمىلەر (Chrome Extensions) بىلەن ئىشلەۋاتىمەن.
-- ⚡ ئاپتوماتلاشتۇرۇش، تېرمىنال قوراللىرى ۋە تور سىستېمىلىرىنى تەڭشەشكە قىزىقىمەن.
-
----
-
-### 🛠️ ئىشلىتىدىغان ماھارەتلەر & قوراللار
-
-**پروگرامما تىللىرى:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bash/Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**قوراللار ۋە مۇھىت:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
----
-
-### 📊 گىتخاپ ئىستاتىستىكىسى
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Sardar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+```ascii
+   _____                _             
+  / ____|              | |            
+ | (___   __ _ _ __  __| | __ _ _ __  
+  \___ \ / _` | '__|/ _` |/ _` | '__| 
+  ____) | (_| | |  | (_| | (_| | |    
+ |_____/ \__,_|_|   \__,_|\__,_|_|    
+ [ SYSTEM STATUS: OPERATIONAL // TERMINAL ACTIVE ]
+#!/bin/bash
+# IDENTITY RECORD
+USER="Sardar"
+ROLE="Cyber Systems & Automation Enthusiast"
+CORE_FOCUS="Reverse Engineering | Network Protocols | AI Systems | Low-Level Shell"
+LOCATION="Encrypted (0.0.0.0)"
+STATUS="Online & Scanning..."{
+  "runtime_environments": ["Termux/Linux", "POSIX Shell", "Node.js v20+", "Python 3.12+"],
+  "arsenal": {
+    "languages": ["Python", "JavaScript", "Bash", "C-Style Syntaxes"],
+    "tooling": ["Git", "VS Code Insiders", "OpenSSL", "ProxyChains", "WireGuard"],
+    "interfaces": ["Telegram Automation APIs", "Chromium Internal APIs (MV3)", "REST/WebSocket"]
+  },
+  "current_vectors": [
+    "Autonomous Agent Integration",
+    "Encrypted Data Pipes & Tunneling",
+    "DOM Manipulation & Browser Engine Scripts"
+  ]
+}
